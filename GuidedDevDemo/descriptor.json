@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "fef53209-7cfb-2a7c-64ca-28bd54d6a6d9",
+    "Name": "GuidedDevDemo",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1701962495000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/GuidedDevDemo.csproj",
+    "DependsOn": [
+      {
+        "UId": "3f299622-2079-4a62-ba18-6d32c1d0d6af",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise_Marketing_ServiceEnt"
+      }
+    ]
+  }
+}
